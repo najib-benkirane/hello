@@ -1,11 +1,37 @@
+<html>
+<title></title>
+<head></head>
 
+<style type="text/css">
+h1 {
+  position : absolute;
+  top :40%;
+  font-size:30px;
+  font-familly:Calibry;
+  width:100% ;
+  text-align:center;
+  
 
+}
+
+</style>
+
+<body>
+
+<h1>  Je teste Git pour la premier fois </h1>
+</body>
+
+</html> 
 
 <?php
 $arr1 = array(1,2,3,4,5);
 $arr2 = array_slice($arr1, -4, -2);
- print_r($arr2);
+// print_r($arr2);
 
+
+
+ 
+ 
 /*
 
 
