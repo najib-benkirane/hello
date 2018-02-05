@@ -3,6 +3,11 @@
 <head></head>
 
 <style type="text/css">
+body{
+background-color:#2ecc71;
+color:white;
+}
+
 h1 {
   position : absolute;
   top :40%;
