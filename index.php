@@ -18,7 +18,7 @@ h1 {
 
 <body>
 
-<h1>  Je teste Git pour la premier fois </h1>
+<h1>  Hello </h1>
 </body>
 
 </html> 
