@@ -4,18 +4,19 @@
 <style type="text/css">
 body{
 background-color:#FFE4C4;
-color :#0000;
+color :#00000;
 }
 h1{
 position:absolute;
 width:100%;
 top:40%;
 font-size:20px;
+text-align:center;  
 }
 </style>
 </head>
 <body>
-<h1> ici le code des autre développeur qui travail sur le même projet
+<h1> ici le code des autre developpeur qui travail sur le meme projet
 <br/> bon chance a vous les amis 
 </h1>
 </h1>
